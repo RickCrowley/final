@@ -11,13 +11,12 @@ Project overview:
         d. When posted, they'd be listed by the user's name obtained from the sign-in
         e. Tag items as "Interested" that other users have posted as available and create a separate list of their interested items
         f. Users can click "Interested" a second time to undo the previous actions
-    4. Each user will have the own view of their items listed, items available and items they are interested in
+    4. Each user will have a unique view of their items listed, items available and items they are interested in
 
     Other potential features include:
     1. Clicking "Interested" changes the html styling around the images to differentiate them from unselected items
     2. Clicking "Interested" provides the email address of the poster and/or notifies the poster
     3. Users can filter by type of spirit
-
 
 Group:
     Rick Crowley
