@@ -19,6 +19,4 @@ Project overview:
     3. Users can filter by type of spirit
 
 Group:
-    Rick Crowley
-    Stephen Vogl
-    Ryan Webb
+    Rick Crowley, Stephen Vogl, Ryan Webb
